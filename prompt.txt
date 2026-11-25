@@ -1,0 +1,1 @@
+Write a program that writes ONE line to /output/entry.txt: the single sentence that could have replaced an entire pointless meeting. No context, no explanation, no setup. The line is judged pairwise on how completely it kills the meeting and how relatable it feels, in an office-humor register.
